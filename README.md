@@ -35,8 +35,6 @@ Contributions are encouraged—whether you’re improving documentation, fixing 
 
 📞 Contact
 
-Email: bkevinraj@protonmail.com
-
-LinkedIn: www.linkedin.com/in/kr29
+Email:  103757896+Kevin2901@users.noreply.github.com
 
 Feel free to open an issue if you encounter bugs, have questions about a particular lab, or want to discuss collaboration opportunities. Happy hacking and stay secure!
